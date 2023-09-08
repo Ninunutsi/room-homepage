@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Ninunutsi/room-homepage/static/css/main.86078eec.css",
-    "main.js": "/Ninunutsi/room-homepage/static/js/main.f3a96545.js",
-    "static/js/787.accb9253.chunk.js": "/Ninunutsi/room-homepage/static/js/787.accb9253.chunk.js",
-    "static/media/desktop-image-hero-1.jpg": "/Ninunutsi/room-homepage/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
-    "static/media/desktop-image-hero-3.jpg": "/Ninunutsi/room-homepage/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
-    "static/media/desktop-image-hero-2.jpg": "/Ninunutsi/room-homepage/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
-    "static/media/image-about-dark.jpg": "/Ninunutsi/room-homepage/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
-    "static/media/logo.svg": "/Ninunutsi/room-homepage/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
-    "index.html": "/Ninunutsi/room-homepage/index.html",
-    "main.86078eec.css.map": "/Ninunutsi/room-homepage/static/css/main.86078eec.css.map",
-    "main.f3a96545.js.map": "/Ninunutsi/room-homepage/static/js/main.f3a96545.js.map",
-    "787.accb9253.chunk.js.map": "/Ninunutsi/room-homepage/static/js/787.accb9253.chunk.js.map"
+    "main.css": "/room-homepage/static/css/main.86078eec.css",
+    "main.js": "/room-homepage/static/js/main.4603d1e1.js",
+    "static/js/787.accb9253.chunk.js": "/room-homepage/static/js/787.accb9253.chunk.js",
+    "static/media/desktop-image-hero-1.jpg": "/room-homepage/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/room-homepage/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/room-homepage/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/image-about-dark.jpg": "/room-homepage/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/logo.svg": "/room-homepage/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
+    "index.html": "/room-homepage/index.html",
+    "main.86078eec.css.map": "/room-homepage/static/css/main.86078eec.css.map",
+    "main.4603d1e1.js.map": "/room-homepage/static/js/main.4603d1e1.js.map",
+    "787.accb9253.chunk.js.map": "/room-homepage/static/js/787.accb9253.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86078eec.css",
-    "static/js/main.f3a96545.js"
+    "static/js/main.4603d1e1.js"
   ]
 }
