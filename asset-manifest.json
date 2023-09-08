@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ninunutsi/room-homepage.git/static/css/main.86078eec.css",
+    "main.js": "/Ninunutsi/room-homepage.git/static/js/main.8b71cede.js",
+    "static/js/787.accb9253.chunk.js": "/Ninunutsi/room-homepage.git/static/js/787.accb9253.chunk.js",
+    "static/media/desktop-image-hero-1.jpg": "/Ninunutsi/room-homepage.git/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/Ninunutsi/room-homepage.git/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/Ninunutsi/room-homepage.git/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/image-about-dark.jpg": "/Ninunutsi/room-homepage.git/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/logo.svg": "/Ninunutsi/room-homepage.git/static/media/logo.8fad054264a8e979d2bbe8ac73867178.svg",
+    "index.html": "/Ninunutsi/room-homepage.git/index.html",
+    "main.86078eec.css.map": "/Ninunutsi/room-homepage.git/static/css/main.86078eec.css.map",
+    "main.8b71cede.js.map": "/Ninunutsi/room-homepage.git/static/js/main.8b71cede.js.map",
+    "787.accb9253.chunk.js.map": "/Ninunutsi/room-homepage.git/static/js/787.accb9253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86078eec.css",
+    "static/js/main.8b71cede.js"
+  ]
+}
